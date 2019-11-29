@@ -1,0 +1,90 @@
+<!doctype html>
+<html> 
+<head>
+<Title>Dimario</title>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+ <link rel="stylesheet" href="style.css">
+  <script src="java.js"></script>
+</head>
+<body>
+
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">//content/About</a>
+  <a href="#menu">Menu</a>
+  <a href="#work">Work At Dimario</a>
+</div>
+
+
+	
+	<div class="box1">  
+	<div class="box2">
+
+<div class="logos"></div>
+
+
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <img src="serve2.jpg" alt="Paris" style="width:300px;height:200px">
+    </div>
+    <div class="flip-box-back">
+      <h2>Chicken Margarita</h2>
+      <p>Chicken Margarita Special For Today</p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="flip-box2">
+  <div class="flip-box-inner2">
+    <div class="flip-box-front2">
+      <img src="serve1.jpg" alt="Paris" style="width:300px;height:200px">
+    </div>
+    <div class="flip-box-back2">
+      <h2>Spicy Jalapeno</h2>
+      <p>Spicy Jalapeno Pizza Weekly Special</p>
+    </div>
+  </div>
+</div>		
+	
+		
+		
+		
+		
+		
+<div class="title"><h1>Why Dimario?</h1> </br>We serve pizza that taste like they are home made
+							our pizza is dilious and will make you want to come back for more
+</div>							
+							
+
+<div class="vid">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sv3TXMSv6Lw" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>	
+	</div>
+		
+		
+<div class="ti"><p>DiMario is an American restaurant chain and international franchise which was founded
+	in	1958 in Wichita, Kansas by Dan and Frank Carney. 
+	The company is known for its Italian-American cuisine menu, including pizza and pasta, as well as side dishes and desserts.
+	DiMario has 18,431 restaurants worldwide as of December 31, 2018, making it the world's largest pizza chain in terms of locations.
+	It is a subsidiary of Yum! Brands, Inc., one of the world's largest restaurant companies</p>
+		
+		
+		
+</div>		
+	
+		
+		
+	</div>
+	</div>
+
+
+
+</body>
+</html>
+
